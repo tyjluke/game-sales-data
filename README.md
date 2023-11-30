@@ -1,2 +1,33 @@
-# game-sales-data
-this project was completed to show the best years in gaming history. 
+# Videogame-sales-data
+this project was completed to show the best years in gaming history. This project was completed to show data manipulation in SQL using postgre, and jupyter notebooks.
+
+Below are the tables and columns used in the project
+
+game_sales
+
+game	varchar	
+platform	varchar
+publisher	varchar
+developer	varchar	
+games_sold	float	
+year	integer	
+
+reviews
+
+game	varchar
+critic_score	float
+user_score	float	
+
+
+top_critic_years_more_than_four_games
+
+year	int	Year of video game release
+num_games	int	
+avg_critic_score	float
+
+
+top_user_years_more_than_four_games
+
+year	int	Year of video game release
+num_games	int	
+avg_user_score	float
