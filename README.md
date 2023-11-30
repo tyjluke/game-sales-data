@@ -1,5 +1,5 @@
 # Videogame-sales-data
-this project was completed to show the best years in gaming history. This project was completed to show data manipulation in SQL using postgre, and jupyter notebooks.
+this project was completed to show the best years in gaming history. This project was completed to show data manipulation in SQL using postgre, and jupyter notebooks. we found that 2008 was the greatest year in gaming history based upon user and critic scores as well as total game sales. 
 
 Below are the tables and columns used in the project
 
